@@ -1,5 +1,7 @@
 # Node CLI Typescript
 
+a simple boilerplate node cli written in typescript.
+
 ## Setup
 
 install deps:
