@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-cli",
+  "version": "1.0.24",
+  "description": "Simple typescript node.js based command line interface (CLI) showing who is in space",
+  "type": "module",
+  "bin": {
+    "inspace": "src/index.ts"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.11",
+    "@types/node": "18.16.3",
+    "axios": "^0.27.2",
+    "chalk": "^5.2.0",
+    "clear": "^0.1.0",
+    "commander": "^10.0.1",
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.194",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.2.2"
+  }
+}
