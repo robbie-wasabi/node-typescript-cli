@@ -1,4 +1,4 @@
-# Chainlancer CLI Typescript
+# Node CLI Typescript
 
 ## Setup
 
